@@ -1,0 +1,22 @@
+OUTPUT:-
+
+1}
+  C:\Users\KIRAN\Desktop>Asn02P12 0 5 2 7 3 4 1 8 6 9
+  Sorted array:
+  0 1 2 3 4 5 6 7 8 9
+
+
+2}
+  C:\Users\KIRAN\Desktop>Asn02P12
+  ....Insufficent parameters..or..no parameters passed..
+
+
+3}
+  C:\Users\Appanna\Desktop>Asn02P12  45 21 65 54 7 69 98 41 11 39 68
+  Sorted array:
+  7 11 21 39 41 45 54 65 68 69 98
+
+TIME COMPLEXITY: 
+	 performs log2(n) comparisons in the worst case, which is O(n log n). 
+	 The algorithm as a whole still has a running time of O(n2) on average
+	 because of the series of swaps required for each insertion.
