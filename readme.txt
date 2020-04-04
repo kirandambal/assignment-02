@@ -28,7 +28,7 @@ Instructions to run the program:-
 
 Detils on example invocation and output:-
 
-	Binery insertion sort uses Binary rearch to find the appropriate position to insert A[i] among the 
+	Binery insertion sort uses Binary search to find the appropriate position to insert A[i] among the 
         previously sorted A[0],A[1]......A[i-1] .
 	
 	 For example  	
